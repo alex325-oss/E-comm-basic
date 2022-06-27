@@ -1,0 +1,21 @@
+{
+  "name": "ecomwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/firestore": "^5.0.2",
+    "aws-sdk": "^2.1142.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^10.2.0",
+    "nodemon": "^2.0.16",
+    "react-facebook-login": "^4.1.1"
+  }
+}
